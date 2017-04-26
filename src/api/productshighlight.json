@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "MICHAEL KORS Sneaker COLBY",
+    "type": "shoes",
+    "price": 500.01,
+    "inventory": 2,
+    "sizes" : [36, 37, 38, 39, 40],
+    "colors" : ["Black", "White", "Blue"],
+    "thumbnail": "product/1/209_263_75/1600003_01.jpg",
+    "icon": "manufacturer/icon/210_120_75/basler01.jpg",
+    "slideshow": [
+      "product/1/380_340_75/1_01.jpg",
+      "product/1/380_340_75/1_02.jpg",
+      "product/1/380_340_75/1_03.jpg",
+      "product/1/380_340_75/1_04.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Boss Munich 90 P",
+    "type": "shoes",
+    "price": 299.99,
+    "inventory": 2,
+    "sizes" : [36, 37, 38],
+    "colors" : ["Red", "Jet Black", "Blue"],
+    "thumbnail": "product/1/318_274_75/danielhechter-hd0602-8-330-1kopie.jpg",
+    "icon": "manufacturer/icon/210_120_75/basler01.jpg",
+    "slideshow": [
+      "product/1/980_1162_75/danielhechter-hd0602-8-330-1kopie.jpg",
+      "product/2/980_1162_75/danielhechter2kopie.jpg",
+      "product/3/980_1162_75/danielhechter4kopie.jpg",
+      "product/4/980_1162_75/danielhechter5kopie.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "LLoyd Daganschwarz ",
+    "type": "shoes",
+    "price": 99.99,
+    "inventory": 2,
+    "sizes" : [36, 37, 38],
+    "colors" : ["Red", "Jet Black", "Blue"],
+    "thumbnail": "product/1/209_263_75/lloyd-daganschwarz-herren.jpg",
+    "icon": "manufacturer/icon/210_120_75/basler01.jpg",
+    "slideshow": [
+      "product/1/980_1162_75/lloyd-daganschwarz-herren.jpg",
+      "product/2/980_1162_75/lloyd-daganschwarz-herren2kopie.jpg",
+      "product/3/980_1162_75/lloyd-daganschwarz-herren3kopie.jpg",
+      "product/4/980_1162_75/lloyd-daganschwarz-herren4kopie.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Nike Flyknit Air Max",
+    "type": "shoes",
+    "price": 69.99,
+    "inventory": 2,
+    "sizes" : [36, 37, 38],
+    "colors" : ["Red", "Jet Black", "Blue"],
+    "thumbnail": "product/1/209_263_75/nike-flyknit-air-max-1.jpg",
+    "icon": "manufacturer/icon/210_120_75/basler01.jpg",
+    "slideshow": [
+      "product/1/980_1162_75/nike-flyknit-air-max-1.jpg",
+      "product/2/980_1162_75/nike-flyknit-air-max-2kopie.jpg",
+      "product/3/980_1162_75/nike-flyknit-air-max-3kopie.jpg",
+      "product/4/980_1162_75/nike-flyknit-air-max-4kopie.jpg"
+    ]
+  }
+]

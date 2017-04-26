@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "manufacturer/icon/210_120_75/basler01.jpg",
+    "brand": "basler"
+  },
+  {
+    "icon": "manufacturer/icon/210_120_75/escada01.jpg",
+    "brand": "escada"
+  },
+  {
+    "icon": "manufacturer/icon/210_120_75/marc-o-polo-logo01.jpg",
+    "brand": "marco"
+  },
+  {
+    "icon": "manufacturer/icon/210_120_75/omega01.jpg",
+    "brand": "omega"
+  }
+]

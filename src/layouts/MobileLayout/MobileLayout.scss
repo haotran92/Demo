@@ -1,0 +1,23 @@
+@media (min-width: 768px) {
+  .navbar-header {
+      float: none;
+  }
+
+  .navbar-left,.navbar-right {
+      float: none !important;
+  }
+  .navbar-toggle {
+      display: block;
+      margin-left: 10px;
+      margin-right: 0;
+  }
+}
+
+.navbar-header {
+  display: flex;
+  justify-content: space-between;
+  
+  &:before, &:after {
+    content: none;
+  }
+}

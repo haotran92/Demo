@@ -1,0 +1,52 @@
+[
+  {
+    "id": 11,
+    "title": "BLASTER Blazer Aus Schurwolle",
+    "type": "clothing",
+    "brand": "basler",
+    "price": 500.01,
+    "inventory": 2,
+    "sizes" : [38, 39, 40],
+    "colors" : ["Black", "White", "Blue"],
+    "thumbnail": "product/1/209_263_75/image_30185173_21_970x1182_0.jpg",
+    "icon": "manufacturer/icon/210_120_75/basler01.jpg",
+    "slideshow": [
+      "product/1/380_340_75/image_30185173_21_970x1182_0.jpg",
+      "product/2/980_1162_75/basler(1).jpg"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Upper Blazer Aus Schurwolle",
+    "type": "clothing",
+    "brand": "escada",
+    "price": 299.99,
+    "inventory": 2,
+    "sizes" : [36, 37, 38],
+    "colors" : ["Red", "Jet Black", "Blue"],
+    "thumbnail": "product/1/209_263_75/image_30265982_0001_970x1182_0.jpg",
+    "icon": "manufacturer/icon/210_120_75/escada01.jpg",
+    "slideshow": [
+      "product/1/209_263_75/image_30265982_0001_970x1182_0.jpg",
+      "product/2/209_263_75/escada-01.png"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "OMEGA Speedmaster Professional",
+    "type": "watch",
+    "brand": "omega",
+    "price": 299.99,
+    "inventory": 2,
+    "sizes" : [36, 37, 38],
+    "colors" : ["Red", "Jet Black", "Blue"],
+    "thumbnail": "product/1/209_263_75/a-1000000_01.jpg",
+    "icon": "manufacturer/icon/210_120_75/escada01.jpg",
+    "slideshow": [
+      "product/1/980_1162_75/a-1000000_01.jpg",
+      "product/2/980_1162_75/a-1000000_02.jpg",
+      "product/3/980_1162_75/a-1000000_03.jpg",
+      "product/4/980_1162_75/a-1000000_04.jpg"
+    ]
+  }
+]

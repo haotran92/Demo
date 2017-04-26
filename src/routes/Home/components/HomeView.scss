@@ -1,5 +1,38 @@
-.duck {
-  display: block;
-  width: 120px;
-  margin: 1.5rem auto;
+.main {
+  background: url("../assets/bg-main.png") repeat-x;
+  padding-top: 15px;
+
+  h4 {
+    font-size: 20px;
+  }
+}
+
+.page {
+  padding: 0 20px;
+}
+
+.high-light {
+  color: #a22a2c;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.top-highlight {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+  img {
+    max-height: 250px;
+  }
+}
+
+.top-brands {
+  display: flex;
+  justify-content: space-around;
+
+  a {
+    width: 20%;
+    height: 120px;
+  }
 }
